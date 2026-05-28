@@ -51,3 +51,6 @@ Generate the figures (`figures/*.pdf`):
 python -m src.figures
 ```
 
+## License
+
+"All rights reserved."
